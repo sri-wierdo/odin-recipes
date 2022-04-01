@@ -1,2 +1,1 @@
-# odin-recipes
-a toy HTML site showcasing some bizarre recipes..(all in good fun though)
+this is a toy site where i was tryiing to practice the HTML skills I recently learned through the Odin prject.... It's not gonna be a beautiful website coz at this moment, I don't know any CSS so there won't be any styling. you it's gonna be a brutal website.. if you know what i mean.
